@@ -1,0 +1,6 @@
+# Ignore the file with Kaggle credentials and API setup
+kaggle_download.py
+kaggle_setup.ipynb
+.kaggle/
+kaggle.json
+/data/
